@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![vnijhuis's github stats](https://github-readme-stats.vercel.app/api?username=vnijhuis-sqills&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/vnijhuis-sqills)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnijhuis-sqills)](https://github.com/vnijhuis-sqills)
+
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_latte&bg=%23eff1f5&badge=%23e6e9ef&border=%239ca0b0&titleColor=%23179299)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vnijhuis-sqills&theme=catppuccin-latte&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
